@@ -7,7 +7,7 @@ about:
   head: 8cfddce
   archived: false
   latestVersion: 7.0.0
-  collectedAt: 2026-09-04T19:59:00Z
+  collectedAt: 2026-09-04T20:43:29Z
 timeline:
   created: 2020-09-07
   lastCommit: 2026-03-04
@@ -87,5 +87,68 @@ total:
   openIssue: 56
   commit: 642
 ---
+path: /home/runner/.x-repo/github.com/cocogitto/cocogitto
+collectedAt: 2026-09-04T20:43:31Z
+loc:
+  Rust:
+    code: 14891
+    comments: 822
+    blanks: 2766
+    files: 90
+  Json:
+    code: 3544
+    comments: 0
+    blanks: 0
+    files: 9
+  Tera:
+    code: 362
+    comments: 0
+    blanks: 55
+    files: 13
+  Toml:
+    code: 294
+    comments: 21
+    blanks: 41
+    files: 10
+  Xml:
+    code: 141
+    comments: 0
+    blanks: 14
+    files: 6
+  Java:
+    code: 38
+    comments: 0
+    blanks: 8
+    files: 5
+  Pest:
+    code: 31
+    comments: 5
+    blanks: 9
+    files: 1
+  Dockerfile:
+    code: 13
+    comments: 3
+    blanks: 7
+    files: 1
+  Yaml:
+    code: 6
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2584
+    blanks: 877
+    files: 30
+  Text:
+    code: 0
+    comments: 1
+    blanks: 0
+    files: 1
+total:
+  code: 20014
+  comments: 3929
+  blanks: 3922
+  files: 167
 ---
 
