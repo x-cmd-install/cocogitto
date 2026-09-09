@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2619033,
       "digest": "sha256:429303b6d68c6461aa221ab4de82b26d0bbcdee7127947ea9c7c411ab9bc574c",
-      "download_count": 2389,
+      "download_count": 2402,
       "created_at": "2026-03-04T09:28:58Z",
       "updated_at": "2026-03-04T09:28:58Z",
       "browser_download_url": "https://github.com/cocogitto/cocogitto/releases/download/7.0.0/cocogitto-7.0.0-aarch64-apple-darwin.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2919511,
       "digest": "sha256:379949f50c4f8245ef9532913e83f351c048b55e40ebd52ed8a850642c07a753",
-      "download_count": 7120,
+      "download_count": 7183,
       "created_at": "2026-03-04T09:28:54Z",
       "updated_at": "2026-03-04T09:28:54Z",
       "browser_download_url": "https://github.com/cocogitto/cocogitto/releases/download/7.0.0/cocogitto-7.0.0-aarch64-unknown-linux-gnu.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2904427,
       "digest": "sha256:074f68f05d270da5c0d69d3e234ec362bec4c6e3189c21d1c948d038603655d7",
-      "download_count": 4094,
+      "download_count": 4163,
       "created_at": "2026-03-04T09:28:55Z",
       "updated_at": "2026-03-04T09:28:56Z",
       "browser_download_url": "https://github.com/cocogitto/cocogitto/releases/download/7.0.0/cocogitto-7.0.0-x86_64-pc-windows-msvc.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3203483,
       "digest": "sha256:e03938ff2c4c86d71c00c0f3284dbbe95c5ca76fe34a51f33e945c23010d59bb",
-      "download_count": 259291,
+      "download_count": 261710,
       "created_at": "2026-03-04T09:28:51Z",
       "updated_at": "2026-03-04T09:28:51Z",
       "browser_download_url": "https://github.com/cocogitto/cocogitto/releases/download/7.0.0/cocogitto-7.0.0-x86_64-unknown-linux-musl.tar.gz"
