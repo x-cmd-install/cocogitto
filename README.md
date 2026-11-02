@@ -38,7 +38,7 @@ Total: **19,320** lines of code across **128** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,225 · **Forks**: 90 · **Open issues**: 289 · **Contributors**: 54
+- **Stars**: 1,226 · **Forks**: 91 · **Open issues**: 289 · **Contributors**: 54
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **19,320** lines of code across **128** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-02 | 0 | 0 | 3 | 0 | 3 | 0 |
-| 90d | 2026-08-03 | 0 | 0 | 3 | 0 | 3 | 0 |
-| last180d | 2026-05-05 | 0 | 0 | 6 | 2 | 7 | 0 |
-| 360d | 2025-11-06 | 1 | 18 | 14 | 12 | 20 | 47 |
-| last720d | 2024-11-11 | 5 | 60 | 14 | 20 | 39 | 138 |
+| 30d | 2026-10-03 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-03 | 0 | 0 | 3 | 0 | 3 | 0 |
+| 90d | 2026-08-04 | 0 | 0 | 3 | 0 | 3 | 0 |
+| last180d | 2026-05-06 | 0 | 0 | 6 | 2 | 7 | 0 |
+| 360d | 2025-11-07 | 1 | 18 | 14 | 12 | 20 | 47 |
+| last720d | 2024-11-12 | 5 | 60 | 14 | 20 | 39 | 138 |
 
 ## Release assets
 
@@ -68,7 +68,7 @@ Total: **19,320** lines of code across **128** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **28** distros on [repology.org](https://repology.org/project/cocogitto). **22** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+Reported by **28** distros on [repology.org](https://repology.org/project/cocogitto). **20** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -87,4 +87,4 @@ Install metadata for cocogitto lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:04:52Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:53:14Z._
