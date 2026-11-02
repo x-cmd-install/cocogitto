@@ -1,27 +1,12 @@
-- repo: alpine_edge
-  subrepo: testing
-  srcname: cocogitto
-  binname: cocogitto-doc
-  visiblename: cocogitto-doc
-  version: 7.0.0
-  origversion: 7.0.0-r0
-  status: newest
-  summary: The Conventional Commits toolbox (documentation)
-  maintainers:
-    - witcher@wiredspace.de
-  licenses:
-    - MIT
-- repo: void_x86_64
-  subrepo: x86_64
+- repo: arch
+  subrepo: extra
   srcname: cocogitto
   binname: cocogitto
   visiblename: cocogitto
   version: 7.0.0
-  origversion: 7.0.0_1
+  origversion: 7.0.0-3
   status: newest
-  summary: Conventional Commits toolbox
-  maintainers:
-    - orphan@voidlinux.org
+  summary: Set of CLI tools for the conventional commit and semver specifications
   licenses:
     - MIT
 - repo: alpine_edge
@@ -53,6 +38,19 @@
 - repo: alpine_edge
   subrepo: testing
   srcname: cocogitto
+  binname: cocogitto-doc
+  visiblename: cocogitto-doc
+  version: 7.0.0
+  origversion: 7.0.0-r0
+  status: newest
+  summary: The Conventional Commits toolbox (documentation)
+  maintainers:
+    - witcher@wiredspace.de
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: testing
+  srcname: cocogitto
   binname: cocogitto-fish-completion
   visiblename: cocogitto-fish-completion
   version: 7.0.0
@@ -74,17 +72,6 @@
   summary: Zsh completions for cocogitto
   maintainers:
     - witcher@wiredspace.de
-  licenses:
-    - MIT
-- repo: arch
-  subrepo: extra
-  srcname: cocogitto
-  binname: cocogitto
-  visiblename: cocogitto
-  version: 7.0.0
-  origversion: 7.0.0-3
-  status: newest
-  summary: Set of CLI tools for the conventional commit and semver specifications
   licenses:
     - MIT
 - repo: aur
@@ -164,9 +151,9 @@
   srcname: cocogitto
   binname: cocogitto
   visiblename: cocogitto
-  version: 7.0.0
-  origversion: 7.0.0-3
-  status: newest
+  version: 5.5.0
+  origversion: 5.5.0-1
+  status: outdated
   summary: Set of CLI tools for the conventional commit and semver specifications
   licenses:
     - MIT
@@ -175,9 +162,9 @@
   srcname: cocogitto
   binname: cocogitto
   visiblename: cocogitto
-  version: 7.0.0
-  origversion: 7.0.0-3
-  status: newest
+  version: 5.5.0
+  origversion: 5.5.0-1
+  status: outdated
   summary: Set of CLI tools for the conventional commit and semver specifications
   licenses:
     - MIT
@@ -312,5 +299,18 @@
   version: 7.0.0
   origversion: null
   status: newest
+  licenses:
+    - MIT
+- repo: void_x86_64
+  subrepo: x86_64
+  srcname: cocogitto
+  binname: cocogitto
+  visiblename: cocogitto
+  version: 7.0.0
+  origversion: 7.0.0_1
+  status: newest
+  summary: Conventional Commits toolbox
+  maintainers:
+    - orphan@voidlinux.org
   licenses:
     - MIT
