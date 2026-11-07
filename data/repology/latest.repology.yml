@@ -1,62 +1,3 @@
-- repo: nix_stable_25_05
-  srcname: cocogitto
-  visiblename: cocogitto
-  version: 6.3.0
-  origversion: null
-  status: outdated
-  summary: Set of cli tools for the conventional commit and semver specifications
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: cocogitto
-  visiblename: cocogitto
-  version: 6.5.0
-  origversion: null
-  status: outdated
-  summary: Set of cli tools for the conventional commit and semver specifications
-  maintainers:
-    - fallback-mnt-nix@repology
-  licenses:
-    - MIT
-- repo: alpine_edge
-  subrepo: testing
-  srcname: cocogitto
-  binname: cocogitto-fish-completion
-  visiblename: cocogitto-fish-completion
-  version: 7.0.0
-  origversion: 7.0.0-r0
-  status: newest
-  summary: Fish completions for cocogitto
-  maintainers:
-    - witcher@wiredspace.de
-  licenses:
-    - MIT
-- repo: alpine_edge
-  subrepo: testing
-  srcname: cocogitto
-  binname: cocogitto-zsh-completion
-  visiblename: cocogitto-zsh-completion
-  version: 7.0.0
-  origversion: 7.0.0-r0
-  status: newest
-  summary: Zsh completions for cocogitto
-  maintainers:
-    - witcher@wiredspace.de
-  licenses:
-    - MIT
-- repo: arch
-  subrepo: extra
-  srcname: cocogitto
-  binname: cocogitto
-  visiblename: cocogitto
-  version: 7.0.0
-  origversion: 7.0.0-3
-  status: newest
-  summary: Set of CLI tools for the conventional commit and semver specifications
-  licenses:
-    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: cocogitto
@@ -94,6 +35,43 @@
   summary: The Conventional Commits toolbox (documentation)
   maintainers:
     - witcher@wiredspace.de
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: testing
+  srcname: cocogitto
+  binname: cocogitto-fish-completion
+  visiblename: cocogitto-fish-completion
+  version: 7.0.0
+  origversion: 7.0.0-r0
+  status: newest
+  summary: Fish completions for cocogitto
+  maintainers:
+    - witcher@wiredspace.de
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: testing
+  srcname: cocogitto
+  binname: cocogitto-zsh-completion
+  visiblename: cocogitto-zsh-completion
+  version: 7.0.0
+  origversion: 7.0.0-r0
+  status: newest
+  summary: Zsh completions for cocogitto
+  maintainers:
+    - witcher@wiredspace.de
+  licenses:
+    - MIT
+- repo: arch
+  subrepo: extra
+  srcname: cocogitto
+  binname: cocogitto
+  visiblename: cocogitto
+  version: 7.0.0
+  origversion: 7.0.0-3
+  status: newest
+  summary: Set of CLI tools for the conventional commit and semver specifications
   licenses:
     - MIT
 - repo: aur
@@ -173,9 +151,9 @@
   srcname: cocogitto
   binname: cocogitto
   visiblename: cocogitto
-  version: 5.5.0
-  origversion: 5.5.0-1
-  status: outdated
+  version: 7.0.0
+  origversion: 7.0.0-3
+  status: newest
   summary: Set of CLI tools for the conventional commit and semver specifications
   licenses:
     - MIT
@@ -184,9 +162,9 @@
   srcname: cocogitto
   binname: cocogitto
   visiblename: cocogitto
-  version: 5.5.0
-  origversion: 5.5.0-1
-  status: outdated
+  version: 7.0.0
+  origversion: 7.0.0-3
+  status: newest
   summary: Set of CLI tools for the conventional commit and semver specifications
   licenses:
     - MIT
@@ -216,6 +194,28 @@
   srcname: cocogitto
   visiblename: cocogitto
   version: 6.1.0
+  origversion: null
+  status: outdated
+  summary: Set of cli tools for the conventional commit and semver specifications
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: cocogitto
+  visiblename: cocogitto
+  version: 6.3.0
+  origversion: null
+  status: outdated
+  summary: Set of cli tools for the conventional commit and semver specifications
+  maintainers:
+    - fallback-mnt-nix@repology
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: cocogitto
+  visiblename: cocogitto
+  version: 6.5.0
   origversion: null
   status: outdated
   summary: Set of cli tools for the conventional commit and semver specifications
