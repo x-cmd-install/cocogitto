@@ -38,7 +38,7 @@ Total: **19,320** lines of code across **128** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,232 · **Forks**: 91 · **Open issues**: 290 · **Contributors**: 54
+- **Stars**: 1,233 · **Forks**: 90 · **Open issues**: 290 · **Contributors**: 54
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **19,320** lines of code across **128** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 0 | 0 | 0 | 0 | 1 | 0 |
-| last60d | 2026-09-24 | 0 | 0 | 0 | 0 | 3 | 0 |
-| 90d | 2026-08-25 | 0 | 0 | 3 | 0 | 4 | 0 |
-| last180d | 2026-05-27 | 0 | 0 | 5 | 1 | 7 | 0 |
-| 360d | 2025-11-28 | 1 | 16 | 14 | 10 | 20 | 45 |
-| last720d | 2024-12-03 | 4 | 58 | 14 | 20 | 40 | 134 |
+| 30d | 2026-10-25 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-25 | 0 | 0 | 0 | 0 | 3 | 0 |
+| 90d | 2026-08-26 | 0 | 0 | 3 | 0 | 4 | 0 |
+| last180d | 2026-05-28 | 0 | 0 | 5 | 1 | 7 | 0 |
+| 360d | 2025-11-29 | 1 | 15 | 14 | 10 | 20 | 45 |
+| last720d | 2024-12-04 | 4 | 58 | 14 | 20 | 40 | 134 |
 
 ## Release assets
 
@@ -87,4 +87,4 @@ Install metadata for cocogitto lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T09:30:23Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T11:21:43Z._
